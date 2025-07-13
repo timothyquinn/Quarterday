@@ -6,7 +6,7 @@ Quarterday looks at work through two frames of reference: the "big picture," in 
 
 ## The Big Picture: Thinning the Backlog
 
-<img src="screenshots/big_picture.png" />
+<center><img src="screenshots/big_picture.png" width='50%' height='auto' /></center>
 
 The big picture will be familiar to anyone who's practised Agile project management. There are four quadrants for any given day: Must Do, May Do, Backlog and Stuck. In general, it's desirable for tasks to be as atomic as possible because our goal is unambiguous completion. So while it's fine to have "work on project" in the Backlog or even in the May Do list, it's just too vague for the Must Do list and should be broken down into specific tasks which can be definitively completed. That said, a task which takes less than a few minutes and is mostly muscle memory doesn't need to clutter up your tasking (e.g. turn on your laptop).
 
@@ -19,7 +19,7 @@ It's strongly recommended that tasking be done at the beginning of the day (and 
 
 ## The Small Picture: Quarterday
 
-<img src="screenshots/small_picture.png" />
+<center><img src="screenshots/small_picture.png" width='50%' height='auto' /></center>
 
 The small picture is a visualization of your day, separated into four blocks: Early Morning, Late Morning, Early Afternoon and Late Afternoon. If you work a night shift, these will obviously be different, but in a traditional 8-hour workday, these can be thought of as four 2-hour blocks:
 
@@ -44,7 +44,7 @@ Certain task management systems will allow you to categorize, nest or annotate t
 
 From the big picture view, you can incorporate myriad other types of list data, from broad organizational or personal goals, to questions that need answering prior to tasking, to sprints for aligning tasks with code releases of higher level themes. Whatever helps you better parse your tasking environment is fine, with the caveat that the more complicated the model appears, the less useful it will likely be.
 
-<img src="screenshots/fully_loaded.png" />
+<center><img src="screenshots/fully_loaded.png" width='50%' height='auto' /></center>
 
 ## A Note on Perishability
 
